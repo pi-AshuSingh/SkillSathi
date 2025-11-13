@@ -1,0 +1,9 @@
+export const USER_API_END_POINT="http://localhost:8000/api/v1/user";
+export const JOB_API_END_POINT="http://localhost:8000/api/v1/job";
+export const APPLICATION_API_END_POINT="http://localhost:8000/api/v1/application";
+export const COMPANY_API_END_POINT="http://localhost:8000/api/v1/company";
+export const REVIEW_API_END_POINT="http://localhost:8000/api/v1/review";
+export const NOTIFICATION_API_END_POINT="http://localhost:8000/api/v1/notification";
+export const PAYMENT_API_END_POINT="http://localhost:8000/api/v1/payment";
+export const WAGE_API_END_POINT="http://localhost:8000/api/v1/wage";
+export const CHATBOT_API_END_POINT="http://localhost:8000/api/v1/chatbot";

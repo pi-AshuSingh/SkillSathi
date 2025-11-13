@@ -1,0 +1,12 @@
+{"timestamp":"2025-11-11T03:22:13.828Z","collection":"Job","id":"690bac3635d2e822b349c9bd","location":"New Delhi","status":"dry-run-would-update","lat":28.6419258,"lng":77.2217499,"provider":"nominatim"}
+{"timestamp":"2025-11-11T03:22:14.834Z","collection":"Job","id":"690bbf6ab1bd236dfdaa853f","location":"New Delhi","status":"dry-run-would-update","lat":28.6419258,"lng":77.2217499,"provider":"nominatim"}
+{"timestamp":"2025-11-11T03:22:16.015Z","collection":"Job","id":"690c4c727994228c09f32cd5","location":"Ghaziabad","status":"dry-run-would-update","lat":28.7749966,"lng":77.4586967,"provider":"nominatim"}
+{"timestamp":"2025-11-11T03:22:17.017Z","collection":"Company","id":"690b4da801a9750f89ba8290","location":"Noida","status":"dry-run-would-update","lat":28.5706333,"lng":77.3272147,"provider":"nominatim"}
+{"timestamp":"2025-11-11T03:22:17.519Z","collection":"Company","id":"690b4f4501a9750f89ba8295","location":"","status":"skipped-no-location"}
+{"timestamp":"2025-11-11T03:22:17.520Z","collection":"Company","id":"690b94ded7783c1289c033e9","location":"","status":"skipped-no-location"}
+{"timestamp":"2025-11-11T03:22:17.520Z","collection":"Company","id":"690b967464f2c0add374735e","location":"","status":"skipped-no-location"}
+{"timestamp":"2025-11-11T03:22:17.520Z","collection":"Company","id":"690b968564f2c0add3747361","location":"","status":"skipped-no-location"}
+{"timestamp":"2025-11-11T03:22:17.520Z","collection":"Company","id":"690b997164f2c0add3747365","location":"","status":"skipped-no-location"}
+{"timestamp":"2025-11-11T03:22:18.239Z","collection":"Company","id":"690ba46344a922e0b60261d3","location":"Pune","status":"dry-run-would-update","lat":18.5213738,"lng":73.8545071,"provider":"nominatim"}
+{"timestamp":"2025-11-11T03:22:19.184Z","collection":"Company","id":"690bbf1cb1bd236dfdaa8536","location":"Noida","status":"dry-run-would-update","lat":28.5706333,"lng":77.3272147,"provider":"nominatim"}
+{"timestamp":"2025-11-11T03:22:20.439Z","collection":"Company","id":"690c6d24bfbe371b7058dcc6","location":"New Delhi","status":"dry-run-would-update","lat":28.6419258,"lng":77.2217499,"provider":"nominatim"}

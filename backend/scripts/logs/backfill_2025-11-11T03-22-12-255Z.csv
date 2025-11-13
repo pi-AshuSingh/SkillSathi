@@ -1,0 +1,13 @@
+timestamp,collection,id,location,status,lat,lng,provider,error
+"2025-11-11T03:22:13.828Z","Job","690bac3635d2e822b349c9bd","New Delhi","dry-run-would-update","28.6419258","77.2217499","nominatim",""
+"2025-11-11T03:22:14.834Z","Job","690bbf6ab1bd236dfdaa853f","New Delhi","dry-run-would-update","28.6419258","77.2217499","nominatim",""
+"2025-11-11T03:22:16.015Z","Job","690c4c727994228c09f32cd5","Ghaziabad","dry-run-would-update","28.7749966","77.4586967","nominatim",""
+"2025-11-11T03:22:17.017Z","Company","690b4da801a9750f89ba8290","Noida","dry-run-would-update","28.5706333","77.3272147","nominatim",""
+"2025-11-11T03:22:17.519Z","Company","690b4f4501a9750f89ba8295","","skipped-no-location","","","",""
+"2025-11-11T03:22:17.520Z","Company","690b94ded7783c1289c033e9","","skipped-no-location","","","",""
+"2025-11-11T03:22:17.520Z","Company","690b967464f2c0add374735e","","skipped-no-location","","","",""
+"2025-11-11T03:22:17.520Z","Company","690b968564f2c0add3747361","","skipped-no-location","","","",""
+"2025-11-11T03:22:17.520Z","Company","690b997164f2c0add3747365","","skipped-no-location","","","",""
+"2025-11-11T03:22:18.239Z","Company","690ba46344a922e0b60261d3","Pune","dry-run-would-update","18.5213738","73.8545071","nominatim",""
+"2025-11-11T03:22:19.184Z","Company","690bbf1cb1bd236dfdaa8536","Noida","dry-run-would-update","28.5706333","77.3272147","nominatim",""
+"2025-11-11T03:22:20.439Z","Company","690c6d24bfbe371b7058dcc6","New Delhi","dry-run-would-update","28.6419258","77.2217499","nominatim",""
