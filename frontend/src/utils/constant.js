@@ -1,4 +1,5 @@
-export const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const isProduction = import.meta.env.MODE === 'production';
+export const API_BASE_URL = isProduction ? "https://skillsathi-z5tw.onrender.com" : "http://localhost:8000";
 
 export const USER_API_END_POINT = `${API_BASE_URL}/api/v1/user`;
 export const JOB_API_END_POINT = `${API_BASE_URL}/api/v1/job`;
